@@ -1,5 +1,5 @@
 # ❤️ Rajnish Portfolio 🙏
-### _This is my Portfolio Project, I made it using HTML, CSS and Javascript
+### _This is my Portfolio Project, I made it using HTML, CSS, and Javascript
 
 
 ## 🔥 Clone this Repository
