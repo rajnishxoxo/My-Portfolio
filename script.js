@@ -46,7 +46,7 @@ $(document).ready(function () {
   });
 
   var typed = new Typed(".typing2", {
-    strings: ["React.js Developer", "Front End Developer"],
+    strings: ["Crafting digital experiences, one pixel at a time", "Building bridges between design and functionality."],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,
